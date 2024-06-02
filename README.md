@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DashiellRussell
+- 🏠 I'm from Sydney, Australia
 - 👀 I’m interested in Aerospace engineeering + Computer and Software engineering
-- 🌱 I’m currently aitting my final year of HS
+- 🌱 I’m currently aitting my final year of HS 
 - 📫 How to reach me. Email me at dashiell.russell@gmail.com
 
 
